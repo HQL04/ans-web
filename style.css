@@ -93,6 +93,13 @@ h1{
     transition: all 0.25s ease;
 }
 
+.answer-item:hover{
+    transform: translateY(-4px);
+
+    background: #1e3c72;
+    color: white;
+}
+
 .nav-links {
     display: flex;
     gap: 20px;
