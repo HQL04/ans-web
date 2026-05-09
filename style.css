@@ -114,8 +114,6 @@ h1{
 .nav-link:hover {
     background: #2a5298;
     transform: translateY(-2px);
-}
-
     border-color: #4d7cff;
 }
 
